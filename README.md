@@ -1,4 +1,4 @@
-# eVTOL-eSTOL-Route-Comparison-Tool
+# UAM-Route-Comparison-Tool
 Engineering project focused on comparing eVTOL and eSTOL aircraft performance across user-defined urban air mobility routes.
 
 <img width="899" height="558" alt="image" src="https://github.com/user-attachments/assets/a5d32d49-e476-496c-8def-f2ea3ef01f14" />
